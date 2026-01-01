@@ -1,17 +1,14 @@
 # Python with Projects 🐍
 
 This repository is designed to teach Python from scratch using hands-on projects.
-Each **branch** contains a standalone Python project that focuses on specific concepts,
+Each **project** contains a standalone Python project that focuses on specific concepts,
 from basics to more advanced topics.
 
 ## Repository Structure
 
-Each branch in this repository represents a **single Python project**.
+Each project in this repository represents a **single Python project**.
 
 - `main` → General information and project list
-- Other branches → One project per branch
-
-You can switch branches to explore different projects.
 
 ## Projects
 
