@@ -15,3 +15,4 @@ Each project in this repository represents a **single Python project**.
 | Branch Name | Project | Concepts |
 |------------|--------|---------|
 | `01-cash-machine` | Cash Machine | print, variables, while loop, if-elif-else |
+| `02-numeric_theories-n-algorithms` | Numeric Theories & Algorithms | factorial, fibonacci, armstrong number, perfect number, loops, functions |
