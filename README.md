@@ -16,3 +16,5 @@ Each project in this repository represents a **single Python project**.
 |------------|--------|---------|
 | `01-cash-machine` | Cash Machine | print, variables, while loop, if-elif-else |
 | `02-numeric_theories-n-algorithms` | Numeric Theories & Algorithms | factorial, fibonacci, armstrong number, perfect number, loops, functions |
+| `03-numeric-algorithms-2` | Numeric Algorithms II | prime number, divisors, GCD, LCM, number pronunciation, pythagorean triples |
+
