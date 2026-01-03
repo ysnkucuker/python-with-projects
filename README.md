@@ -18,6 +18,8 @@ Each project in this repository represents a **single Python project**.
 | `04-youtube-video-downloader` | YouTube Video Downloader | yt-dlp, file handling, subprocess, external tools integration |
 | `05-remove-background` | Remove Background | rembg, image processing, file handling, AI-based background removal |
 | `06-pdf-to-docx` | PDF to DOCX Converter | pdf2docx, file conversion, document processing |
+| `07-qr-generator` | QR Code Generator | pyqrcode, svg generation, data encoding |
+
 
 
 
