@@ -23,9 +23,8 @@ Each project in this repository represents a **single Python project**.
 | `09-gif-generator` | GIF Generator | tkinter, Pillow, image processing, file handling, GUI automation |
 | `10-counter-gui` | Countdown Timer GUI | tkinter, threading, time, GUI applications, state management |
 | `11-desktop-notification` | Desktop Notification | tkinter, plyer, threading, time, desktop notifications |
-
-
-
+| `12-face-detection` | Face Detection | opencv, haar cascade, computer vision, tkinter, image processing |
+| `13-image-resizer` | Image Resizer | tkinter, pillow, image processing, batch processing, file handling |
 
 
 
@@ -61,6 +60,20 @@ To run this project, the required packages must be installed (PIL).
 A simple desktop notification scheduler built with Python and Tkinter.  
 Users can define a title, message, and delay time to receive system notifications.
 To run this project, the required packages must be installed (plyer).
+
+**12 – Face Detection (Webcam & Image)**  
+A computer vision project that detects human faces using OpenCV and Haar Cascade classifiers.  
+The project includes two different usage modes:
+- **Webcam detection:** Performs real-time face detection using the system camera.
+- **Image detection:** Allows users to select an image from their computer via a Tkinter GUI and detects faces on the selected image.
+
+This project demonstrates the difference between real-time video processing and static image analysis in computer vision workflows.
+
+**13 – Image Resizer**  
+A desktop application that allows users to select multiple images and resize them in batch.  
+Built with Tkinter and Pillow, this project demonstrates image processing, file handling, and GUI-based user interaction.
+To run this project, the required packages must be installed (pillow).
+
 
 
 
