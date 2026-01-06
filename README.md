@@ -21,6 +21,10 @@ Each project in this repository represents a **single Python project**.
 | `07-qr-generator` | QR Code Generator | pyqrcode, svg generation, data encoding |
 | `08-voice-recorder` | Voice Recorder | tkinter, sounddevice, soundfile, simpleaudio, multithreading, GUI, audio processing |
 | `09-gif-generator` | GIF Generator | tkinter, Pillow, image processing, file handling, GUI automation |
+| `10-counter-gui` | Countdown Timer GUI | tkinter, threading, time, GUI applications, state management |
+| `11-desktop-notification` | Desktop Notification | tkinter, plyer, threading, time, desktop notifications |
+
+
 
 
 
@@ -52,6 +56,12 @@ To run this project, the required packages must be installed (pip install soundd
 A desktop GUI application that creates animated GIFs from selected images using Python.  
 Users can set image size and frame duration through a simple Tkinter interface.
 To run this project, the required packages must be installed (PIL).
+
+**11 – Desktop Notification**  
+A simple desktop notification scheduler built with Python and Tkinter.  
+Users can define a title, message, and delay time to receive system notifications.
+To run this project, the required packages must be installed (plyer).
+
 
 
 
