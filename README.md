@@ -25,6 +25,8 @@ Each project in this repository represents a **single Python project**.
 | `11-desktop-notification` | Desktop Notification | tkinter, plyer, threading, time, desktop notifications |
 | `12-face-detection` | Face Detection | opencv, haar cascade, computer vision, tkinter, image processing |
 | `13-image-resizer` | Image Resizer | tkinter, pillow, image processing, batch processing, file handling |
+| `14-speech-to-text` | Speech to Text | speechrecognition, tkinter, threading, microphone, AI-based speech recognition |
+
 
 
 
@@ -73,6 +75,12 @@ This project demonstrates the difference between real-time video processing and 
 A desktop application that allows users to select multiple images and resize them in batch.  
 Built with Tkinter and Pillow, this project demonstrates image processing, file handling, and GUI-based user interaction.
 To run this project, the required packages must be installed (pillow).
+
+**14 – Speech to Text**  
+A desktop application that converts spoken language into text using a microphone.  
+Built with Tkinter and the SpeechRecognition library, this project demonstrates real-time audio capture, threading, and AI-based speech recognition using Google's speech API.
+To run this project, the required packages must be installed (pip install SpeechRecognition pyaudio).
+
 
 
 
