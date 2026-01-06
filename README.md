@@ -26,7 +26,7 @@ Each project in this repository represents a **single Python project**.
 | `12-face-detection` | Face Detection | opencv, haar cascade, computer vision, tkinter, image processing |
 | `13-image-resizer` | Image Resizer | tkinter, pillow, image processing, batch processing, file handling |
 | `14-speech-to-text` | Speech to Text | speechrecognition, tkinter, threading, microphone, AI-based speech recognition |
-
+| `15-oop` | Object Oriented Programming | classes, objects, constructors, methods, inheritance, super(), method overriding, magic methods |
 
 
 
