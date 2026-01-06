@@ -19,6 +19,7 @@ Each project in this repository represents a **single Python project**.
 | `05-remove-background` | Remove Background | rembg, image processing, file handling, AI-based background removal |
 | `06-pdf-to-docx` | PDF to DOCX Converter | pdf2docx, file conversion, document processing |
 | `07-qr-generator` | QR Code Generator | pyqrcode, svg generation, data encoding |
+| `08-voice-recorder` | Voice Recorder | tkinter, sounddevice, soundfile, simpleaudio, multithreading, GUI, audio processing |
 
 
 
@@ -39,6 +40,12 @@ To run this project, the `rembg` package must be installed (`pip install "rembg[
 A simple Python script that converts PDF documents into editable DOCX files using the `pdf2docx` library.  
 Useful for document processing and automation workflows.
 To run this project, the `pdf2docx` package must be installed (`pip install "pdf2docx`).
+
+**08 - Voice Recorder**
+A simple desktop voice recorder application built with Python and Tkinter.
+It allows users to record audio from the microphone, monitor real-time input volume via a VU meter, save recordings as WAV files, and play them back through a graphical interface.
+The project uses multithreading to ensure smooth recording without freezing the UI.
+To run this project, the required packages must be installed (pip install sounddevice soundfile simpleaudio numpy).
 
 
 
