@@ -27,6 +27,7 @@ Each project in this repository represents a **single Python project**.
 | `13-image-resizer` | Image Resizer | tkinter, pillow, image processing, batch processing, file handling |
 | `14-speech-to-text` | Speech to Text | speechrecognition, tkinter, threading, microphone, AI-based speech recognition |
 | `15-oop` | Object Oriented Programming | classes, objects, constructors, methods, inheritance, super(), method overriding, magic methods |
+| `16-remote-control` | TV Remote Control | OOP, classes, objects, methods, magic methods, state management, user input |
 
 
 
@@ -80,6 +81,11 @@ To run this project, the required packages must be installed (pillow).
 A desktop application that converts spoken language into text using a microphone.  
 Built with Tkinter and the SpeechRecognition library, this project demonstrates real-time audio capture, threading, and AI-based speech recognition using Google's speech API.
 To run this project, the required packages must be installed (pip install SpeechRecognition pyaudio).
+
+**16 – TV Remote Control**  
+A console-based Python application that simulates a television remote control using Object-Oriented Programming principles.  
+The project demonstrates class design, state management, user interaction, magic methods (`__str__`, `__len__`), and dynamic channel handling.
+
 
 
 
