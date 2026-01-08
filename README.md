@@ -30,6 +30,7 @@ Each project in this repository represents a **single Python project**.
 | `16-remote-control` | TV Remote Control | OOP, classes, objects, methods, magic methods, state management, user input |
 | `17-turtle-tutorial` | Turtle Graphics Tutorial | turtle, graphics programming, functions, modules, loops, user interaction |
 | `18-catch-the-turtle` | Catch the Turtle Game | turtle, event handling, onclick, random positioning, timer, score system |
+| `19-snake` | Snake Game | turtle, game loop, keyboard controls, collision detection, walls, pause system, score tracking |
 
 
 
@@ -89,6 +90,11 @@ To run this project, the required packages must be installed (pip install Speech
 A console-based Python application that simulates a television remote control using Object-Oriented Programming principles.  
 The project demonstrates class design, state management, user interaction, magic methods (`__str__`, `__len__`), and dynamic channel handling.
 
+**19 – Snake Game**
+A silent Snake game built with Python’s turtle module.
+The game includes visible walls, a restricted play area, pause/resume support (P key), a time counter, and permanent top 3 high score tracking.
+Touching a wall or the snake’s body ends the game.
+No external libraries are required.
 
 
 
