@@ -28,6 +28,8 @@ Each project in this repository represents a **single Python project**.
 | `14-speech-to-text` | Speech to Text | speechrecognition, tkinter, threading, microphone, AI-based speech recognition |
 | `15-oop` | Object Oriented Programming | classes, objects, constructors, methods, inheritance, super(), method overriding, magic methods |
 | `16-remote-control` | TV Remote Control | OOP, classes, objects, methods, magic methods, state management, user input |
+| `17-turtle-tutorial` | Turtle Graphics Tutorial | turtle, graphics programming, functions, modules, loops, user interaction |
+
 
 
 
