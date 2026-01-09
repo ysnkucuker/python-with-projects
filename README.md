@@ -32,8 +32,7 @@ Each project in this repository represents a **single Python project**.
 | `18-catch-the-turtle` | Catch the Turtle Game | turtle, event handling, onclick, random positioning, timer, score system |
 | `19-snake` | Snake Game | turtle, game loop, keyboard controls, collision detection, walls, pause system, score tracking |
 | `20-tetris` | Tetris Game | turtle, falling blocks, rotation, line clearing, score tracking |
-
-
+| `21-grade-calculator` | Grade Calculator | file handling, functions, conditional logic, string parsing, data processing |
 
 
 
