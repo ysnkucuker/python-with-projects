@@ -34,6 +34,8 @@ Each project in this repository represents a **single Python project**.
 | `20-tetris` | Tetris Game | turtle, falling blocks, rotation, line clearing, score tracking |
 | `21-grade-calculator` | Grade Calculator | file handling, functions, conditional logic, string parsing, data processing |
 | `22-bmi-calculator` | BMI Calculator | tkinter, GUI, input validation, functions, conditional logic, error handling |
+| `23-secret-file` | Encrypted Notes App | tkinter, cryptography, file handling, encryption/decryption, dark mode |
+| 24-library-system-sqlite | Library Management System | python, sqlite, OOP, CRUD operations, CLI, database management |
 
 
 
@@ -98,6 +100,10 @@ A silent Snake game built with Python’s turtle module.
 The game includes visible walls, a restricted play area, pause/resume support (P key), a time counter, and permanent top 3 high score tracking.
 Touching a wall or the snake’s body ends the game.
 No external libraries are required.
+
+**24 – Library Management System (SQLite)**
+A console-based Python application that manages books using SQLite with basic CRUD operations and Object-Oriented Programming.
+SQLite is a lightweight, file-based database and can be downloaded from the official website if needed: https://www.sqlite.org/download.html
 
 
 
