@@ -35,7 +35,8 @@ Each project in this repository represents a **single Python project**.
 | `21-grade-calculator` | Grade Calculator | file handling, functions, conditional logic, string parsing, data processing |
 | `22-bmi-calculator` | BMI Calculator | tkinter, GUI, input validation, functions, conditional logic, error handling |
 | `23-secret-file` | Encrypted Notes App | tkinter, cryptography, file handling, encryption/decryption, dark mode |
-| 24-library-system-sqlite | Library Management System | python, sqlite, OOP, CRUD operations, CLI, database management |
+| `24-library-system-sqlite` | Library Management System | python, sqlite, OOP, CRUD operations, CLI, database management |
+| `25-house-prices-data-analysis` | House Prices Data Analysis | python, pandas, numpy, matplotlib, data cleaning, exploratory data analysis |
 
 
 
