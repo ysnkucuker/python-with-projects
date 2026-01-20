@@ -37,6 +37,8 @@ Each project in this repository represents a **single Python project**.
 | `23-secret-file` | Encrypted Notes App | tkinter, cryptography, file handling, encryption/decryption, dark mode |
 | `24-library-system-sqlite` | Library Management System | python, sqlite, OOP, CRUD operations, CLI, database management |
 | `25-house-prices-data-analysis` | House Prices Data Analysis | python, pandas, numpy, matplotlib, data cleaning, exploratory data analysis |
+| `26-github-profile-analyzer` | GitHub Profile Analyzer | python, requests, beautifulsoup4, web scraping, data extraction, profile analysis |
+
 
 
 
