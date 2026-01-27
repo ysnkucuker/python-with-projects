@@ -39,6 +39,8 @@ Each project in this repository represents a **single Python project**.
 | `25-house-prices-data-analysis` | House Prices Data Analysis | python, pandas, numpy, matplotlib, data cleaning, exploratory data analysis |
 | `26-github-profile-analyzer` | GitHub Profile Analyzer | python, requests, beautifulsoup4, web scraping, data extraction, profile analysis |
 | `27-smtp-email` | SMTP Email Sender | python, smtplib, email, smtp, gmail, app password, email automation |
+| `28-user-login-register` | User Login & Registration | python, PyQt5, sqlite3, GUI, user authentication, register, login |
+
 
 
 ## Descriptions
