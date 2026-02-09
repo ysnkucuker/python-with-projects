@@ -41,6 +41,8 @@ Each project in this repository represents a **single Python project**.
 | `27-smtp-email` | SMTP Email Sender | python, smtplib, email, smtp, gmail, app password, email automation |
 | `28-user-login-register` | User Login & Registration | python, PyQt5, sqlite3, GUI, user authentication, register, login |
 | `29-notepad` | Advanced Notepad | python, PyQt5, GUI, text editor, line numbers, find and replace, file handling |
+| `30-crypto-crazy` | Crypto Trading Bot | python, requests, crypto, binance api, trading bot, moving average, paper trading |
+
 
 
 ## Descriptions
@@ -107,6 +109,12 @@ No external libraries are required.
 **24 – Library Management System (SQLite)**
 A console-based Python application that manages books using SQLite with basic CRUD operations and Object-Oriented Programming.
 SQLite is a lightweight, file-based database and can be downloaded from the official website if needed: https://www.sqlite.org/download.html
+
+**30 – Crypto Crazy**
+A Python-based crypto trading simulation using the requests library and a public exchange API (Binance).
+The application fetches real-time cryptocurrency prices, analyzes market data using a simple moving average strategy, and generates BUY / SELL / HOLD signals.
+It is designed for educational and paper trading purposes only and does not execute real trades.
+No API key is required, and no external libraries are used beyond requests.
 
 
 
