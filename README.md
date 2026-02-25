@@ -45,6 +45,7 @@ Each project in this repository represents a **single Python project**.
 | `31-python-requests-jsonplaceholder`   | Python REST Client   | python, requests, REST API, CRUD, HTTP methods, CLI, jsonplaceholder, api client |
 | `32-subdomain-finder` | Subdomain Finder | python, requests, wordlist, cybersecurity |
 | `33-web-crawler` | Web Crawler | python, requests, beautifulsoup, web scraping, crawler, recursive, urljoin, html parsing |
+| '34-pokemon-api' | Pokémon API Client | python, requests, pokeapi, api, json, pokemon, terminal, user input, sprites |
 
 
 
