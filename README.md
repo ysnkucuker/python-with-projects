@@ -43,6 +43,7 @@ Each project in this repository represents a **single Python project**.
 | `29-notepad` | Advanced Notepad | python, PyQt5, GUI, text editor, line numbers, find and replace, file handling |
 | `30-crypto-crazy` | Crypto Trading Bot | python, requests, crypto, binance api, trading bot, moving average, paper trading |
 | `31-python-requests-jsonplaceholder`   | Python REST Client   | python, requests, REST API, CRUD, HTTP methods, CLI, jsonplaceholder, api client |
+| `32-subdomain-finder` | Subdomain Finder | python, requests, wordlist, cybersecurity |
 
 
 
